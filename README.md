@@ -1,1 +1,2 @@
-### **This is the Simon game project created during my web development bootcamp.**
+<h1  align="center"> This is the Simon game project created during my web development bootcamp. </h1>
+<p align="center">Explore the captivating world of the Simon game, crafted with passion during a dynamic web development bootcamp. Immerse yourself in this classic memory challenge, where vibrant colors and crisp sounds harmonize to test your recall prowess. Dive into a seamless user experience, meticulously designed with HTML, CSS, and JavaScript, as you engage in a nostalgic journey of patterns and precision. Elevate your cognitive skills while enjoying the sleek, responsive interface of this project, a testament to your journey in mastering the art of web development.</p>
